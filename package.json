@@ -1,0 +1,20 @@
+{
+  "name": "child_process_with_argv0",
+  "description": "Versions of execFile and spawn which allow you to supply an argv[0] other than the executed filename",
+  "homepage": "http://github.com/andrewffff/child_process_with_argv0",
+  "author": "Andrew Francis (http://github.com/andrewffff)",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/andrewffff/node-webmon.git"
+  },
+  "keywords": [
+    "child_process",
+    "exec",
+    "execFile",
+    "spawn",
+    "argv"
+  ],
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "./child_process_with_argv0.js"
+}
